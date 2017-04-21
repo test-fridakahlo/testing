@@ -8,6 +8,8 @@ import model.Ebike;
 import view.CustomerView;
 import view.WelcomeView;
 
+// ICH MACH MAL WAS NEUES --- TEST TEST TEST
+
 public class JavaBikesController {
 	// create objects of CustomerDatabase and BikeDatabase
 	CustomerDatabase customerDb;
